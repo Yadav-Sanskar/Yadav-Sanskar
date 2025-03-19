@@ -58,7 +58,7 @@
   </a>
 </div>
 
-🏆 Most Used Languages:
+### 🏆 Most Used Languages:
 <div align="center">
   <a href="https://github.com/yadav-sanskar">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=radical" height="150px" />
