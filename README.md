@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **yadavsanskar4455@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sanskar-yadav-721710229](www.linkedin.com/in/sanskar-yadav-721710229)
 
 - ⚡ Fun fact **I can spend hours coding without a break, but one missing semicolon can ruin my whole day! 😆**
 
