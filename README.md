@@ -65,10 +65,6 @@
   </a>
 </div>
 
-### 🐍 Contribution Snake Animation
-<div align="center">
-  <img src="https://github.com/yadav-sanskar/yadav-sanskar/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
 
 
 
