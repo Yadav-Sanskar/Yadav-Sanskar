@@ -8,7 +8,7 @@
 <img src="animated_coding_sanskarr.gif" alt="Sanskar Yadav Coding" width="400" align="right">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-sanskar" /> </p>
+### 👨‍💻 **About Me**<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-sanskar" /> </p>
 
 - 🌱 I’m currently learning **Advanced Flutter Development. 😎**
 
@@ -20,13 +20,21 @@
 
 - ⚡ Fun fact **I can spend hours coding without a break, but one missing semicolon can ruin my whole day! 😆**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanskar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar yadav" height="30" width="40" /></a>
+### 🌍 **Connect with Me**
+<p align="center">
+<a href="https://linkedin.com/in/sanskar-yadav" target="blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
+</a>
+<a href="https://github.com/yadav-sanskar" target="blank">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" />
+</a>
+<a href="mailto:yadavsanskar4455@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-### 🛠️ Languages and Tools  
-<p align="left">
+### 🛠️ **Languages and Tools**  
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 5px;"/>
