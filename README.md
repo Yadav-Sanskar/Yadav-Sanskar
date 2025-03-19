@@ -39,16 +39,17 @@
 
 
 
-### 📈 GitHub Stats:
+### 📈 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/yadav-sanskar">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=radical" height="150px" />
   </a>
   
   <a href="https://github.com/yadav-sanskar">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-sanskar&theme=radical" height="150px"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=radical" height="150px"/>
   </a>
 </div>
+
 🏆 Most Used Languages:
 <div align="center">
   <a href="https://github.com/yadav-sanskar">
