@@ -22,7 +22,7 @@
 
 ### 🌍 **Connect with Me**
 <p align="center">
-<a href="https://linkedin.com/in/sanskar-yadav" target="blank">
+<a href="https://www.linkedin.com/in/sanskar-yadav-721710229/" target="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
 </a>
 <a href="https://github.com/yadav-sanskar" target="blank">
