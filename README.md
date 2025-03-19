@@ -3,7 +3,7 @@
   <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/github_banner_sanskar.png" alt="Sanskar Yadav Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Sanskar Yadav</h1> 
 <h3 align="center">Building scalable apps with MERN, Flutter, and a touch of AI/ML. 😎</h3>
 <img src="animated_coding_sanskarr.gif" alt="Sanskar Yadav Coding" width="400" align="right">
 
@@ -64,6 +64,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=radical" height="150px" />
   </a>
 </div>
+
+### 🐍 Contribution Snake Animation
+<div align="center">
+  <img src="https://github.com/yadav-sanskar/yadav-sanskar/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
+
 
 
 
