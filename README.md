@@ -86,15 +86,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=radical&border_radius=10&border_color=00E5FF&title_color=00E5FF&icon_color=00FF88&bg_color=0D1117" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=tokyonight&border_radius=10&border_color=00E5FF&title_color=00E5FF&icon_color=00FF88" height="160px"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=radical&border_radius=10&border=00E5FF&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&background=0D1117" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=tokyonight&border_radius=10&border=00E5FF&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF" height="160px"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=radical&border_radius=10&border_color=00E5FF&title_color=00E5FF&bg_color=0D1117" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=tokyonight&border_radius=10&border_color=00E5FF&title_color=00E5FF" height="160px"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
