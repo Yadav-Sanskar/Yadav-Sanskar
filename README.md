@@ -1,107 +1,94 @@
 <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/banner_fusion_fixed_text.svg" alt="Sanskar Yadav Banner" width="100%">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/banner_fusion_fixed_text.svg" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Engineer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00f7ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 </p>
 
-## 🔩 Hardware I Work With
+---
+
+<h2 align="center">⚡ Tech Stack & Hardware ⚡</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ESP8266-WiFi_Module-00979D?style=for-the-badge&logo=espressif&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Arduino-Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TI_MSP432-ARM_Cortex--M4-C41230?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-00979D?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00F7FF?style=for-the-badge&logo=arduino&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MSP432-C41230?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" title="Arduino IDE" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,vscode" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-| 🔭 | Working on | Firmware & IoT Projects |
-|---|---|---|
-| 🌱 | Learning | RTOS, Bare-metal C, Low-level Optimization |
-| 💬 | Ask me about | Embedded C/C++, Microcontrollers, IoT |
-| 🛠️ | Favourite MCU | ESP32 & TI MSP432 |
-| ⚡ | Fun Fact | I can debug hardware for hours — but one wrong register value ruins my whole day! 😆 |
-| 📫 | Reach me at | yadavsanskar4455@gmail.com |
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskar-yadav-721710229/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/yadav-sanskar" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yadavsanskar4455@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🧠 About Me</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=radical&border_radius=10" height="160px"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=radical&border_radius=10" height="160px"/>
+
+🔭 Building **Firmware & IoT Systems**  
+🌱 Exploring **RTOS, Bare-Metal & Low-Level Optimization**  
+💬 Ask me about **Embedded C/C++, Microcontrollers, IoT**  
+⚡ Love working close to hardware  
+
+📫 **yadavsanskar4455@gmail.com**
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskar-yadav-721710229/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/yadav-sanskar">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="mailto:yadavsanskar4455@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=radical&border_radius=10" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <i>⚙️ "The closer to the hardware, the closer to the truth." ⚙️</i>
+  <b>⚙️ "Closer to hardware = closer to reality." ⚙️</b>
 </p>
