@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="profile views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020A14,100:00E5FF&height=60&section=header&reversal=false" width="100%"/>
-
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_1.svg" width="100%"/>
+</p>
 
 ## 🔩 Hardware I Work With
 
@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/TI_MSP432-ARM_Cortex--M4-C41230?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_2.svg" width="100%"/>
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -46,7 +48,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_3.svg" width="100%"/>
+</p>
 
 ## 🧠 About Me
 
@@ -63,7 +67,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_1.svg" width="100%"/>
+</p>
 
 ## 🌍 Connect with Me
 
@@ -81,7 +87,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_2.svg" width="100%"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -97,7 +105,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=tokyonight&border_radius=10&border_color=00E5FF&title_color=00E5FF" height="160px"/>
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_3.svg" width="100%"/>
+</p>
 
 ## 🏅 GitHub Trophies
 
@@ -105,10 +115,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:020A14&height=80&section=footer"/>
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/divider_circuit_2.svg" width="100%"/>
 </p>
 
 <p align="center">
