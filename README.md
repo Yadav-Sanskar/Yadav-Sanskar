@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IIoT+%7C+Microcontrollers+%7C+Bare-Metal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IoT+%7C+Microcontrollers+%7C+Bare-Metal" alt="Typing SVG" />
 </h1>
 
 <p align="center">
