@@ -1,0 +1,31 @@
+<svg width="900" height="40" viewBox="0 0 900 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="40" fill="#0D1117"/>
+  <line x1="0" y1="20" x2="900" y2="20" stroke="#00FF88" stroke-width="0.6" opacity="0.3"/>
+  <!-- UART label left -->
+  <rect x="30" y="12" width="50" height="16" rx="2" fill="#0D1117" stroke="#00FF88" stroke-width="0.8" opacity="0.7"/>
+  <text x="55" y="23" text-anchor="middle" font-size="7" fill="#00FF88" font-family="monospace" opacity="0.85">UART</text>
+  <line x1="80" y1="20" x2="120" y2="20" stroke="#00FF88" stroke-width="1" opacity="0.5"/>
+  <!-- SPI waveform -->
+  <polyline points="130,20 140,20 140,10 155,10 155,20 170,20 170,10 185,10 185,20 200,20" fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.6"/>
+  <text x="165" y="36" text-anchor="middle" font-size="6" fill="#00E5FF" font-family="monospace" opacity="0.6">SPI</text>
+  <line x1="200" y1="20" x2="240" y2="20" stroke="#00E5FF" stroke-width="0.8" opacity="0.4"/>
+  <!-- I2C label -->
+  <rect x="260" y="12" width="40" height="16" rx="2" fill="#0D1117" stroke="#00E5FF" stroke-width="0.8" opacity="0.6"/>
+  <text x="280" y="23" text-anchor="middle" font-size="7" fill="#00E5FF" font-family="monospace" opacity="0.8">I2C</text>
+  <line x1="300" y1="20" x2="360" y2="20" stroke="#00E5FF" stroke-width="0.8" opacity="0.4"/>
+  <!-- CAN center -->
+  <rect x="410" y="10" width="80" height="20" rx="2" fill="#0D1117" stroke="#00FF88" stroke-width="1" opacity="0.7"/>
+  <text x="450" y="24" text-anchor="middle" font-size="8" fill="#00FF88" font-family="monospace" opacity="0.85">CAN BUS</text>
+  <line x1="360" y1="20" x2="410" y2="20" stroke="#00FF88" stroke-width="1" opacity="0.5"/>
+  <line x1="490" y1="20" x2="540" y2="20" stroke="#00FF88" stroke-width="1" opacity="0.5"/>
+  <!-- right side mirror -->
+  <polyline points="540,20 555,20 555,10 570,10 570,20 585,20 585,10 600,10 600,20 615,20" fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.6"/>
+  <line x1="615" y1="20" x2="640" y2="20" stroke="#00E5FF" stroke-width="0.8" opacity="0.4"/>
+  <rect x="650" y="12" width="50" height="16" rx="2" fill="#0D1117" stroke="#00E5FF" stroke-width="0.8" opacity="0.6"/>
+  <text x="675" y="23" text-anchor="middle" font-size="7" fill="#00E5FF" font-family="monospace" opacity="0.8">GPIO</text>
+  <line x1="700" y1="20" x2="740" y2="20" stroke="#00E5FF" stroke-width="0.8" opacity="0.4"/>
+  <rect x="750" y="12" width="60" height="16" rx="2" fill="#0D1117" stroke="#00FF88" stroke-width="0.8" opacity="0.7"/>
+  <text x="780" y="23" text-anchor="middle" font-size="7" fill="#00FF88" font-family="monospace" opacity="0.85">FreeRTOS</text>
+  <line x1="810" y1="20" x2="870" y2="20" stroke="#00FF88" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="870" cy="20" r="3" fill="#00FF88" opacity="0.7"/>
+</svg>
