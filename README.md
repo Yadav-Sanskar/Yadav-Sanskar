@@ -1,10 +1,11 @@
+
 <p align="center">
   <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/banner_fusion_fixed_text.svg" alt="Sanskar Yadav Banner" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=00E5FF40&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/typing_glow.svg" width="650px"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="profile views"/>
