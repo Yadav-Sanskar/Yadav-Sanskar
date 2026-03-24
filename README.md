@@ -98,19 +98,20 @@
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=10&margin-h=10" />
+</p> -->
+
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/trophy_icon.svg" width="100px"/>
 </p>
 
 <br/>
 
-<!-- <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat_animated.svg" width="100%"/>
-</p> -->
 
 <p align="center">
-  <p align="center">
   <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat_animated.svg" width="100%"/>
 </p>
+<p align="center">
   <i>⚙️ "The closer to the hardware, the closer to the truth." ⚙️</i>
 </p>
