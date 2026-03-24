@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=00E5FF40&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -98,13 +98,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat.svg" width="100%"/>
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat_animated.svg" width="100%"/>
 </p>
+
+---
 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/trophy_banner.svg" width="60%"/>
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/trophy_icon.svg" width="100px"/>
 </p>
 
 <p align="center">
