@@ -109,5 +109,8 @@
 </p> -->
 
 <p align="center">
+  <p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat_animated.svg" width="100%"/>
+</p>
   <i>⚙️ "The closer to the hardware, the closer to the truth." ⚙️</i>
 </p>
