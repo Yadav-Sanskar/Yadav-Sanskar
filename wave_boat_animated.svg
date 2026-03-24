@@ -1,0 +1,125 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Wave animations -->
+    <style>
+      @keyframes wave1 {
+        0%   { d: path("M0 75 Q56 58 112 75 Q168 92 224 75 Q280 58 336 75 Q392 92 448 75 Q504 58 560 75 Q616 92 672 75 Q728 58 784 75 Q840 92 900 75 L900 130 L0 130 Z"); }
+        50%  { d: path("M0 85 Q56 68 112 85 Q168 102 224 85 Q280 68 336 85 Q392 102 448 85 Q504 68 560 85 Q616 102 672 85 Q728 68 784 85 Q840 102 900 85 L900 130 L0 130 Z"); }
+        100% { d: path("M0 75 Q56 58 112 75 Q168 92 224 75 Q280 58 336 75 Q392 92 448 75 Q504 58 560 75 Q616 92 672 75 Q728 58 784 75 Q840 92 900 75 L900 130 L0 130 Z"); }
+      }
+      @keyframes wave2 {
+        0%   { d: path("M0 85 Q45 70 90 85 Q135 100 180 85 Q225 70 270 85 Q315 100 360 85 Q405 70 450 85 Q495 100 540 85 Q585 70 630 85 Q675 100 720 85 Q765 70 810 85 Q855 100 900 85 L900 130 L0 130 Z"); }
+        50%  { d: path("M0 78 Q45 63 90 78 Q135 93 180 78 Q225 63 270 78 Q315 93 360 78 Q405 63 450 78 Q495 93 540 78 Q585 63 630 78 Q675 93 720 78 Q765 63 810 78 Q855 93 900 78 L900 130 L0 130 Z"); }
+        100% { d: path("M0 85 Q45 70 90 85 Q135 100 180 85 Q225 70 270 85 Q315 100 360 85 Q405 70 450 85 Q495 100 540 85 Q585 70 630 85 Q675 100 720 85 Q765 70 810 85 Q855 100 900 85 L900 130 L0 130 Z"); }
+      }
+      @keyframes wave3 {
+        0%   { d: path("M0 95 Q40 82 80 95 Q120 108 160 95 Q200 82 240 95 Q280 108 320 95 Q360 82 400 95 Q440 108 480 95 Q520 82 560 95 Q600 108 640 95 Q680 82 720 95 Q760 108 800 95 Q840 82 880 95 L900 95 L900 130 L0 130 Z"); }
+        50%  { d: path("M0 88 Q40 75 80 88 Q120 101 160 88 Q200 75 240 88 Q280 101 320 88 Q360 75 400 88 Q440 101 480 88 Q520 75 560 88 Q600 101 640 88 Q680 75 720 88 Q760 101 800 88 Q840 75 880 88 L900 88 L900 130 L0 130 Z"); }
+        100% { d: path("M0 95 Q40 82 80 95 Q120 108 160 95 Q200 82 240 95 Q280 108 320 95 Q360 82 400 95 Q440 108 480 95 Q520 82 560 95 Q600 108 640 95 Q680 82 720 95 Q760 108 800 95 Q840 82 880 95 L900 95 L900 130 L0 130 Z"); }
+      }
+      @keyframes boatRock {
+        0%   { transform: translate(450px, 55px) rotate(-2deg); }
+        25%  { transform: translate(450px, 60px) rotate(1deg); }
+        50%  { transform: translate(450px, 57px) rotate(-1deg); }
+        75%  { transform: translate(450px, 62px) rotate(2deg); }
+        100% { transform: translate(450px, 55px) rotate(-2deg); }
+      }
+      @keyframes sailWave {
+        0%   { transform: skewX(0deg); }
+        50%  { transform: skewX(3deg); }
+        100% { transform: skewX(0deg); }
+      }
+      .wave1 { animation: wave1 4s ease-in-out infinite; }
+      .wave2 { animation: wave2 3.5s ease-in-out infinite 0.5s; }
+      .wave3 { animation: wave3 3s ease-in-out infinite 1s; }
+      .boat  { animation: boatRock 3.5s ease-in-out infinite; transform-origin: center; }
+    </style>
+  </defs>
+
+  <!-- Sky background -->
+  <rect width="900" height="130" fill="#020A14"/>
+
+  <!-- Stars -->
+  <circle cx="60"  cy="18" r="1"   fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="140" cy="10" r="1.2" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="220" cy="22" r="0.8" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="310" cy="12" r="1"   fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="380" cy="25" r="0.8" fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="600" cy="15" r="1.2" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="680" cy="8"  r="0.8" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="760" cy="20" r="1"   fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="840" cy="10" r="1.2" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="880" cy="25" r="0.8" fill="#FFFFFF" opacity="0.7"/>
+
+  <!-- Crescent moon -->
+  <circle cx="80" cy="28" r="14" fill="#1A2A3A"/>
+  <circle cx="74" cy="24" r="11" fill="#C8A84C" opacity="0.85"/>
+  <circle cx="80" cy="28" r="14" fill="#020A14"/>
+  <path d="M70 18 Q86 28 70 38 Q60 28 70 18 Z" fill="#C8A84C" opacity="0.75"/>
+
+  <!-- Horizon glow line -->
+  <line x1="0" y1="72" x2="900" y2="72" stroke="#00E5FF" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Water deep background -->
+  <rect x="0" y="72" width="900" height="58" fill="#041828"/>
+
+  <!-- Wave layer 1 - back deep blue -->
+  <path class="wave1"
+    d="M0 75 Q56 58 112 75 Q168 92 224 75 Q280 58 336 75 Q392 92 448 75 Q504 58 560 75 Q616 92 672 75 Q728 58 784 75 Q840 92 900 75 L900 130 L0 130 Z"
+    fill="#0A2A4A" opacity="0.8"/>
+
+  <!-- Wave layer 2 - mid cyan -->
+  <path class="wave2"
+    d="M0 85 Q45 70 90 85 Q135 100 180 85 Q225 70 270 85 Q315 100 360 85 Q405 70 450 85 Q495 100 540 85 Q585 70 630 85 Q675 100 720 85 Q765 70 810 85 Q855 100 900 85 L900 130 L0 130 Z"
+    fill="#0D3858" opacity="0.85"/>
+
+  <!-- Wave highlight line 2 -->
+  <path d="M0 85 Q45 70 90 85 Q135 100 180 85 Q225 70 270 85 Q315 100 360 85 Q405 70 450 85 Q495 100 540 85 Q585 70 630 85 Q675 100 720 85 Q765 70 810 85 Q855 100 900 85"
+    fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.4"/>
+
+  <!-- Wave layer 3 - front dark -->
+  <path class="wave3"
+    d="M0 95 Q40 82 80 95 Q120 108 160 95 Q200 82 240 95 Q280 108 320 95 Q360 82 400 95 Q440 108 480 95 Q520 82 560 95 Q600 108 640 95 Q680 82 720 95 Q760 108 800 95 Q840 82 880 95 L900 95 L900 130 L0 130 Z"
+    fill="#082038" opacity="0.9"/>
+
+  <!-- Wave highlight line 3 -->
+  <path d="M0 95 Q40 82 80 95 Q120 108 160 95 Q200 82 240 95 Q280 108 320 95 Q360 82 400 95 Q440 108 480 95 Q520 82 560 95 Q600 108 640 95 Q680 82 720 95 Q760 108 800 95 Q840 82 880 95"
+    fill="none" stroke="#00E5FF" stroke-width="0.7" opacity="0.3"/>
+
+  <!-- Water sparkles -->
+  <circle cx="100"  cy="88"  r="1.5" fill="#00E5FF" opacity="0.55"/>
+  <circle cx="250"  cy="80"  r="1"   fill="#00E5FF" opacity="0.5"/>
+  <circle cx="360"  cy="90"  r="1.5" fill="#00FF88" opacity="0.45"/>
+  <circle cx="550"  cy="82"  r="1"   fill="#00E5FF" opacity="0.5"/>
+  <circle cx="670"  cy="91"  r="1.5" fill="#00E5FF" opacity="0.55"/>
+  <circle cx="800"  cy="83"  r="1"   fill="#00FF88" opacity="0.45"/>
+
+  <!-- ANIMATED BOAT GROUP -->
+  <g class="boat">
+    <!-- Hull -->
+    <path d="M-55 8 L55 8 L68 24 L-68 24 Z" fill="#1A3A5A" stroke="#00E5FF" stroke-width="1.2" transform="translate(0,0)"/>
+    <!-- Hull bottom -->
+    <path d="M-68 24 Q0 36 68 24" fill="#122840" stroke="#00E5FF" stroke-width="0.8" opacity="0.8"/>
+    <!-- Deck -->
+    <rect x="-44" y="-2" width="88" height="12" rx="2" fill="#0F2030" stroke="#00E5FF" stroke-width="0.7"/>
+    <!-- Cabin windows -->
+    <rect x="-30" y="1" width="12" height="7" rx="1" fill="#00E5FF" opacity="0.35" stroke="#00E5FF" stroke-width="0.5"/>
+    <rect x="-10" y="1" width="12" height="7" rx="1" fill="#00E5FF" opacity="0.35" stroke="#00E5FF" stroke-width="0.5"/>
+    <rect x="10" y="1" width="12" height="7" rx="1" fill="#00E5FF" opacity="0.35" stroke="#00E5FF" stroke-width="0.5"/>
+    <!-- Mast -->
+    <line x1="0" y1="-2" x2="0" y2="-58" stroke="#00E5FF" stroke-width="1.8" opacity="0.9"/>
+    <!-- Main sail -->
+    <path d="M0 -55 L0 -6 L44 -22 Z" fill="#00E5FF" opacity="0.28" stroke="#00E5FF" stroke-width="0.8"/>
+    <!-- Second sail left -->
+    <path d="M0 -50 L0 -10 L-36 -28 Z" fill="#00FF88" opacity="0.22" stroke="#00FF88" stroke-width="0.6"/>
+    <!-- Flag -->
+    <path d="M0 -58 L16 -52 L0 -46 Z" fill="#00FF88" opacity="0.9"/>
+    <!-- Mast rope lines -->
+    <line x1="0" y1="-55" x2="44" y2="-22" stroke="#00E5FF" stroke-width="0.5" opacity="0.3"/>
+    <line x1="0" y1="-50" x2="-36" y2="-28" stroke="#00FF88" stroke-width="0.5" opacity="0.25"/>
+    <!-- Boat name -->
+    <text x="0" y="19" text-anchor="middle" font-size="7" fill="#00E5FF" font-family="monospace" opacity="0.7">ESP32</text>
+    <!-- Boat reflection -->
+    <ellipse cx="0" cy="32" rx="50" ry="6" fill="#00E5FF" opacity="0.05"/>
+  </g>
+</svg>
