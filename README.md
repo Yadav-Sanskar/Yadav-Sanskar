@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanskar-yadav-721710229/" target="blank">
+  <a href="https://www.linkedin.com/in/sanskar-yadav1/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
