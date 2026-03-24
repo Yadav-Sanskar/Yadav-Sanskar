@@ -1,42 +1,14 @@
 <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/github_banner_sanskar.png" alt="Sanskar Yadav Banner" width="100%">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/banner_fusion_fixed_text.svg" alt="Sanskar Yadav Banner" width="100%">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IoT+%7C+Microcontrollers+%7C+Bare-Metal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IOT+%7C+Microcontrollers+%7C+Bare-Metal+" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00f7ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yadav-sanskar&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="profile views"/>
 </p>
-
----
-
-## ⚡ `whoami`
-
-```c
-/* ============================================
- *   Sanskar Yadav — Embedded Systems Developer
- * ============================================ */
-
-typedef struct {
-    char*  name;
-    char*  role;
-    char** hardware;
-    char** skills;
-    char*  currently_learning;
-    char*  contact;
-} Developer;
-
-Developer sanskar = {
-    .name               = "Sanskar Yadav",
-    .role               = "Embedded Systems & Firmware Developer",
-    .hardware           = {"ESP32", "ESP8266", "Arduino", "TI MSP432"},
-    .skills             = {"Embedded C/C++", "RTOS", "IoT", "Bare-Metal Programming"},
-    .currently_learning = "RTOS & Low-Level C/C++ Optimization",
-    .contact            = "yadavsanskar4455@gmail.com"
-};
-```
 
 ---
 
@@ -76,13 +48,18 @@ Developer sanskar = {
 
 ## 🧠 About Me
 
-| 🔭 | Working on | Firmware & IoT Projects |
-|---|---|---|
-| 🌱 | Learning | RTOS, Bare-metal C, Low-level Optimization |
-| 💬 | Ask me about | Embedded C/C++, Microcontrollers, IoT |
-| 🛠️ | Favourite MCU | ESP32 & TI MSP432 |
-| ⚡ | Fun Fact | I can debug hardware for hours — but one wrong register value ruins my whole day! 😆 |
-| 📫 | Reach me at | yadavsanskar4455@gmail.com |
+<div align="center">
+
+| | | |
+|:---:|:---:|:---|
+| 🔭 | **Working on** | Firmware & IoT Projects |
+| 🌱 | **Learning** | RTOS, Bare-metal C, Low-level Optimization |
+| 💬 | **Ask me about** | Embedded C/C++, Microcontrollers, IoT |
+| 🛠️ | **Favourite MCU** | ESP32 & TI MSP432 |
+| ⚡ | **Fun Fact** | I can debug hardware for hours — but one wrong register value ruins my whole day! 😆 |
+| 📫 | **Reach me at** | yadavsanskar4455@gmail.com |
+
+</div>
 
 ---
 
@@ -107,30 +84,36 @@ Developer sanskar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=radical&border_radius=10" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yadav-sanskar&show_icons=true&theme=tokyonight&border_radius=10&border_color=00E5FF&title_color=00E5FF&icon_color=00FF88" height="160px"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=radical&border_radius=10" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=yadav-sanskar&theme=tokyonight&border_radius=10&border=00E5FF&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF" height="160px"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=radical&border_radius=10" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-sanskar&layout=compact&theme=tokyonight&border_radius=10&border_color=00E5FF&title_color=00E5FF" height="160px"/>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/wave_boat_animated.svg" width="100%"/>
+</p>
 
 ---
 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/trophy_icon.svg" width="100px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yadav-sanskar&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=80&section=footer"/>
-</p>
 
 <p align="center">
   <i>⚙️ "The closer to the hardware, the closer to the truth." ⚙️</i>
