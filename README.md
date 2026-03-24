@@ -30,23 +30,6 @@
 
 <br/>
 
-## ⚡ `whoami`
-
-```c
-/* ================================================
- *   Sanskar Yadav  —  Embedded Systems Developer
- * ================================================ */
-
-Developer sanskar = {
-    .name               = "Sanskar Yadav",
-    .role               = "Embedded Systems & Firmware Developer",
-    .hardware           = { "ESP32", "ESP8266", "Arduino", "TI MSP432" },
-    .skills             = { "Embedded C/C++", "HAL", "RTOS", "Bare-Metal", "IoT" },
-    .currently_learning = "RTOS & Low-Level C/C++ Optimization",
-    .contact            = "yadavsanskar4455@gmail.com"
-};
-```
-
 <br/>
 
 ## 🧠 About Me
