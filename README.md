@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=00E5FF&background=0D111700&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IoT+%7C+Microcontrollers+%7C+Bare-Metal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&background=0D111700&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Sanskar+Yadav;Embedded+%26+Firmware+Developer;IoT+%7C+Microcontrollers+%7C+Bare-Metal" alt="Typing SVG" />
 </p>
 
 <p align="center">
